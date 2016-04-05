@@ -1,0 +1,16 @@
+{
+  "name": "profi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "log4js": "latest",
+    "request": "latest",
+    "connect-timeout": "latest",
+    "supertest": "latest",
+    "should": "latest"
+  }
+}
